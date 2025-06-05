@@ -256,7 +256,7 @@ let val = 7;
 if (val < 5) {
   console.log("Meno di 5");
 } else if (val < 10) {
-  console.log("Uguale a 5 e minore di 10");
+  console.log("Uguale a 5 o minore di 10");
 } else {
   console.log("Uguale a 10 o maggiore");
 }
